@@ -1,0 +1,11 @@
+# Declare files that will always have CRLF line endings on checkout.
+*.sln text eol=crlf
+*.cs  text eol=crlf
+*.config text eol=crlf
+*.xaml text eol=crlf
+*.axml text eol=crlf
+*.xml text eol=crlf
+*.csproj text eol=crlf
+*.json text eol=crlf
+*.plist text eol=crlf
+*.storyboard text eol=crlf
